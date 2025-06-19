@@ -7,3 +7,5 @@ langchain-community
 pypdf
 sentence-transformers
 langchain_pinecone
+python-dotenv
+-e .
